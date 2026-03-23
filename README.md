@@ -23,12 +23,6 @@ Each project is organized in its own folder with source code and explanations.
 * Seaborn
 * Jupyter Notebook
 
-## Projects Included
-
-* Stock Market Analysis using Python
-* Data Visualization Projects
-* Practice Python Programs
-
 ## Purpose
 
 The goal of this repository is to:
